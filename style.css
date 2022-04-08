@@ -1,0 +1,90 @@
+/*###External css file###*/
+
+/*Global styling*/
+
+/* Start of global font of body*/
+body{
+    font-family: 'Poppins',sans-serif;
+    font-size: 13px;
+}
+/* End of global font of body*/
+
+/*Start of global font of heading*/
+.head{
+    font-family: 'Neuton',serif;
+    font-weight: 600;
+}
+/*end of global bont of heading*/
+
+/*this is for line under heading */
+#line{
+    height: 2px;
+    background-color: black;
+    width: 5%;
+}
+
+/*Theme color for background*/
+.myColor{
+    background-color: #FFBE13;
+}
+
+/* theme color for text */
+.textmycolor{
+    color: #FFBE13;
+}
+
+
+
+/*Global styling end*/
+
+
+
+/*#######Main styling start####### */
+
+/*nav bar styling start */
+#mainnavbar{
+    font-size: medium;
+    font-family: 'Neuton', serif;
+}
+/*nav bar styling end */
+
+/*for setting brand logo color*/
+#mainnavbar .navbar-brand{
+    color: #FFBE13;
+    font-size: 30px;
+    letter-spacing: 8px;
+
+}
+
+/*This is for nav link font*/
+#mainnavbar .nav-link{
+    font-size: large;
+}
+
+/* this is for active button color*/
+#mainnavbar .navbar-nav .active .nav-link {
+    color: #FFBE13;
+}
+
+/*this is for hover option */
+#mainnavbar .navbar-nav .nav-link:hover {
+    color: #FFBE13;
+}
+
+
+
+/*#######Main styling end######### */
+
+
+/*style for main name in hero*/
+#myName{
+    font-size: 58px;
+      font-family: 'Neuton',serif;
+      font-weight: 600;
+}
+
+
+/*this is for paraspacing */
+.paraspacing{
+    line-height: 25px;
+}
