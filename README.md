@@ -9,9 +9,9 @@
 ### Installation
 
 - Clone the repository
-'''
+```
 git clone https://github.com/MitaliPatni/Portfolio.git
-'''
+```
 
 ## Screenshots of the website
 ### Home page
