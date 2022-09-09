@@ -19,18 +19,18 @@ body{
 /*this is for line under heading */
 #line{
     height: 2px;
-    background-color: black;
+    background-color: #151f37;
     width: 5%;
 }
 
 /*Theme color for background*/
 .myColor{
-    background-color: #FFBE13;
+    background-color: #03060a;
 }
 
 /* theme color for text */
 .textmycolor{
-    color: #FFBE13;
+    color: #5499e4;
 }
 
 
@@ -50,7 +50,7 @@ body{
 
 /*for setting brand logo color*/
 #mainnavbar .navbar-brand{
-    color: #FFBE13;
+    color: #5499e4;
     font-size: 30px;
     letter-spacing: 8px;
 
@@ -63,12 +63,12 @@ body{
 
 /* this is for active button color*/
 #mainnavbar .navbar-nav .active .nav-link {
-    color: #FFBE13;
+    color: #5499e4;
 }
 
 /*this is for hover option */
 #mainnavbar .navbar-nav .nav-link:hover {
-    color: #FFBE13;
+    color: #5499e4;
 }
 
 
